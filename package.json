@@ -1,0 +1,57 @@
+{
+  "name": "vsc-aliceblue--theme",
+  "displayName": "Aliceblue Theme",
+  "description": "a aliceblue theme for vs code",
+  "version": "1.0.0",
+  "publisher": "YornQiu",
+  "license": "MIT",
+  "author": "YornQiu",
+  "galleryBanner": {
+    "color": "aliceblue"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/YornQiu/vsc-aliceblue-theme.git"
+  },
+  "bugs": {
+    "url": "https://github.com/YornQiu/vsc-aliceblue-theme.git"
+  },
+  "engines": {
+    "node": "<=10",
+    "vscode": "^1.60.0"
+  },
+  "categories": [
+    "Themes",
+    "Other"
+  ],
+  "keywords": [
+    "VSCode",
+    "Themes"
+  ],
+  "extensionKind": [
+    "ui",
+    "workspace"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Aliceblue-Theme",
+        "path": "./themes/Aliceblue-Theme.json",
+        "uiTheme": "vs"
+      },
+      {
+        "label": "Aliceblue-Theme Dark",
+        "path": "./themes/Aliceblue-Theme-Dark.json",
+        "uiTheme": "vs-dark"
+      }
+    ]
+  },
+  "badges": [
+    {
+      "url": "https://camo.githubusercontent.com/d3c6e53aa66426dead24cdedab0e83082103bea6/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6973737565732f657175696e75736f63696f2f7673632d6d6174657269616c2d7468656d652e7376673f7374796c653d666c61742d737175617265",
+      "href": "https://github.com/material-theme/vsc-aliceblue-theme/issues",
+      "description": "Open issues"
+    }
+  ],
+  "__metadata": {}
+}
