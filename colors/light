@@ -1,0 +1,9 @@
+background: #F0F8FF;
+background-deep: #D5EBFF;
+background-deeper: #CBE6FF;
+theme: #79C0FF;
+border: #B5DCFF60;
+
+constract: #FFF8EF;
+constract-deep: #FFE9CB;
+constract-deeper: #FFD394;

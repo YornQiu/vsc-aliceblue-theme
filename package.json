@@ -1,7 +1,7 @@
 {
   "name": "vsc-aliceblue-theme",
   "displayName": "Aliceblue Theme",
-  "description": "a aliceblue theme for vs code",
+  "description": "A aliceblue theme for vs code",
   "version": "0.0.1",
   "publisher": "YornQiu",
   "license": "MIT",
@@ -36,12 +36,12 @@
   "contributes": {
     "themes": [
       {
-        "label": "Aliceblue-Theme",
+        "label": "Aliceblue Theme",
         "path": "./themes/Aliceblue-Theme.json",
         "uiTheme": "vs"
       },
       {
-        "label": "Aliceblue-Theme Dark",
+        "label": "Aliceblue Theme Dark",
         "path": "./themes/Aliceblue-Theme-Dark.json",
         "uiTheme": "vs-dark"
       }
@@ -53,6 +53,5 @@
       "href": "https://github.com/material-theme/vsc-aliceblue-theme/issues",
       "description": "Open issues"
     }
-  ],
-  "__metadata": {}
+  ]
 }
