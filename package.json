@@ -2,7 +2,7 @@
   "name": "vsc-aliceblue--theme",
   "displayName": "Aliceblue Theme",
   "description": "a aliceblue theme for vs code",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "publisher": "YornQiu",
   "license": "MIT",
   "author": "YornQiu",
@@ -32,6 +32,7 @@
     "ui",
     "workspace"
   ],
+  "icon": "icon.png",
   "contributes": {
     "themes": [
       {
