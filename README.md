@@ -2,7 +2,7 @@
  * @Author: YornQiu
  * @Date: 2021-10-14 17:28:14
  * @LastEditors: YornQiu
- * @LastEditTime: 2021-10-17 20:25:57
+ * @LastEditTime: 2021-10-18 16:30:28
  * @Description: file content
  * @FilePath: \vsc-aliceblue-theme\README.md
 -->
@@ -15,7 +15,7 @@ For self use
 
 
 ## It's like
-![Aliceblue Theme](./img/aliceblue-theme.png)
+![Aliceblue Theme](aliceblue-theme.png)
 
 ## And the dark mode
-![Aliceblue Theme Dark](./img/aliceblue-theme-dark.png)
+![Aliceblue Theme Dark](aliceblue-theme-dark.png)
