@@ -4,6 +4,7 @@ background-deeper: #CBE6FF;
 theme: #79C0FF;
 border: #B5DCFF60;
 
-constract: #FFF8EF;
-constract-deep: #FFE9CB;
-constract-deeper: #FFD394;
+base: #9AA6B9;
+constract: #FFCD00;
+constract-deep: #FF9404;
+constract-deeper: #FF783E;

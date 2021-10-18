@@ -1,6 +1,12 @@
 {
   "name": "Aliceblue-Theme-Dark",
   "type": "dark",
+  "semanticHighlighting": true,
+  "semanticTokenColors": {
+    "variable.defaultLibrary": {
+      "foreground": "#FAB56B"
+    }
+  },
   "tokenColors": [
     {
       "settings": {
@@ -189,7 +195,8 @@
         "variable.parameter"
       ],
       "settings": {
-        "foreground": "#FF5370"
+        "fontStyle": "italic",
+        "foreground": "#A6ACCD"
       }
     },
     {
@@ -221,7 +228,7 @@
         "support.type.sys-types"
       ],
       "settings": {
-        "foreground": "#FFCB6B"
+        "foreground": "#FFD96B"
       }
     },
     {
