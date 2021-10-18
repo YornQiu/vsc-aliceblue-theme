@@ -1,4 +1,6 @@
 .gitignore
 /.vscode
 /colors
-/img
+
+aliceblue-theme.png
+aliceblue-theme-dark.png
