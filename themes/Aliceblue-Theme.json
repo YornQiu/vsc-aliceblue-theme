@@ -155,15 +155,6 @@
       }
     },
     {
-      "name": "Variables constant",
-      "scope": [
-        "variable.other.constant"
-      ],
-      "settings": {
-        "foreground": "#FF783E"
-      }
-    },
-    {
       "name": "Other Variable, String Link",
       "scope": [
         "support.other.variable",
