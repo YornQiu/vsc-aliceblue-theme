@@ -1,11 +1,11 @@
 {
   "name": "vsc-aliceblue-theme",
   "displayName": "Aliceblue Theme",
-  "description": "A aliceblue theme for VS Code",
-  "version": "0.2.5",
+  "description": "An aliceblue theme for VS Code",
+  "version": "0.2.6",
   "publisher": "YornQiu",
   "license": "MIT",
-  "author": "YornQiu",
+  "author": "Yorn Qiu",
   "galleryBanner": {
     "color": "aliceblue"
   },
